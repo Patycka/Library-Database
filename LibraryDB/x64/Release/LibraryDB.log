@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  Book.cpp
+Book.cpp(32): warning C4101: 'e': unreferenced local variable
+  BooksRepository.cpp
+  FileManager.cpp
+  LibraryDB.cpp
+  LibraryManager.cpp
+  LibraryUser.cpp
+  UsersRepository.cpp
+  Utils.cpp
+  ViewController.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Generating code
+  All 922 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LibraryDB.vcxproj -> C:\programowanie_c++\baza_biblioteka\librarydb\LibraryDB\x64\Release\LibraryDB.exe
+  LibraryDB.vcxproj -> C:\programowanie_c++\baza_biblioteka\librarydb\LibraryDB\x64\Release\LibraryDB.pdb (Full PDB)

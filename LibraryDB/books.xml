@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Books>
+    <Book>
+        <Id>1</Id>
+        <Name>kordian</Name>
+        <ReturnDate>26-04-2017</ReturnDate>
+        <Reader>krzysiek ciepka</Reader>
+    </Book>
+    <Book>
+        <Id>2</Id>
+        <Name>zmesta</Name>
+        <ReturnDate>26-04-2017</ReturnDate>
+        <Reader>krzysiek ciepka</Reader>
+    </Book>
+</Books>

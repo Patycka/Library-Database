@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Users>
+    <User>
+        <Name>ajd kshf</Name>
+        <BorrowedBooks />
+    </User>
+    <User>
+        <Name>ak kaa</Name>
+        <BorrowedBooks />
+    </User>
+    <User>
+        <Name>krzysiek ciepka</Name>
+        <BorrowedBooks>
+            <Book>1</Book>
+            <Book>2</Book>
+        </BorrowedBooks>
+    </User>
+</Users>
